@@ -3,3 +3,4 @@ Version 1.0
 This change was added via a Pull Request
 Feature a was added.
 Feature b was added.
+New feature added..
